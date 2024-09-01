@@ -1,0 +1,15 @@
+D:\Repos\baslangic-seviye-dotnet-patikasi-odevleri\csharp101odevleri\obj\Debug\net8.0\csharp101odevleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\baslangic-seviye-dotnet-patikasi-odevleri\csharp101odevleri\obj\Debug\net8.0\csharp101odevleri.AssemblyInfoInputs.cache
+D:\Repos\baslangic-seviye-dotnet-patikasi-odevleri\csharp101odevleri\obj\Debug\net8.0\csharp101odevleri.AssemblyInfo.cs
+D:\Repos\baslangic-seviye-dotnet-patikasi-odevleri\csharp101odevleri\obj\Debug\net8.0\csharp101odevleri.csproj.CoreCompileInputs.cache
+D:\Repos\baslangic-seviye-dotnet-patikasi-odevleri\csharp101odevleri\obj\Debug\net8.0\csharp101odevleri.sourcelink.json
+D:\Repos\baslangic-seviye-dotnet-patikasi-odevleri\csharp101odevleri\bin\Debug\net8.0\csharp101odevleri.exe
+D:\Repos\baslangic-seviye-dotnet-patikasi-odevleri\csharp101odevleri\bin\Debug\net8.0\csharp101odevleri.deps.json
+D:\Repos\baslangic-seviye-dotnet-patikasi-odevleri\csharp101odevleri\bin\Debug\net8.0\csharp101odevleri.runtimeconfig.json
+D:\Repos\baslangic-seviye-dotnet-patikasi-odevleri\csharp101odevleri\bin\Debug\net8.0\csharp101odevleri.dll
+D:\Repos\baslangic-seviye-dotnet-patikasi-odevleri\csharp101odevleri\bin\Debug\net8.0\csharp101odevleri.pdb
+D:\Repos\baslangic-seviye-dotnet-patikasi-odevleri\csharp101odevleri\obj\Debug\net8.0\csharp101odevleri.dll
+D:\Repos\baslangic-seviye-dotnet-patikasi-odevleri\csharp101odevleri\obj\Debug\net8.0\refint\csharp101odevleri.dll
+D:\Repos\baslangic-seviye-dotnet-patikasi-odevleri\csharp101odevleri\obj\Debug\net8.0\csharp101odevleri.pdb
+D:\Repos\baslangic-seviye-dotnet-patikasi-odevleri\csharp101odevleri\obj\Debug\net8.0\csharp101odevleri.genruntimeconfig.cache
+D:\Repos\baslangic-seviye-dotnet-patikasi-odevleri\csharp101odevleri\obj\Debug\net8.0\ref\csharp101odevleri.dll
